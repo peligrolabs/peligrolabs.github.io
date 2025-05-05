@@ -1,4 +1,4 @@
-# Peligro Labs - Documents
+# Peligro Labs, LLC - Documents
 
 ### Contents
 
