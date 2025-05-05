@@ -5,6 +5,6 @@ layout: default
 <b>[Home](./index.html)</b> | <b>[Blog](./blog.html)</b> | <b>Products</b> | <b>[Documents](./documents.html)</b> | <b>[Career](./career.html)</b>
 * * *
 
-### Contents
+## Contents
 
 <i>Coming soon...</i>
