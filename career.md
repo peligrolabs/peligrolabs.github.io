@@ -30,3 +30,7 @@ If you are a video game developer, data scientist, neuroscientist, computer scie
 <b>Q</b>: What is your preferred bill rate? (Please answer in $USD/hr or $USD/content)
 
 <b>Note</b>: Included in the email, please attach an updated resume and a portfolio related to your craft or science.
+
+---
+
+Copyright &copy; 2025 [Peligro Labs, LLC](https://peligrolabs.com/).

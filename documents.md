@@ -12,3 +12,7 @@ layout: default
 ### Designs
 
 ### Company
+
+---
+
+Copyright &copy; 2025 [Peligro Labs, LLC](https://peligrolabs.com/).

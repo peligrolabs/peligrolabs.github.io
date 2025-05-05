@@ -8,3 +8,7 @@ layout: default
 ## Contents
 
 <i>Coming soon...</i>
+
+---
+
+Copyright &copy; 2025 [Peligro Labs, LLC](https://peligrolabs.com/).

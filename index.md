@@ -8,3 +8,7 @@ layout: default
 ## About
 
 <i>A Mythic High Technology and Digital Therapeutics Research & Development Company</i>
+
+---
+
+Copyright &copy; 2025 [Peligro Labs, LLC](https://peligrolabs.com/).
