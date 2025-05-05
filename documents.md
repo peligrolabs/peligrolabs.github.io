@@ -7,6 +7,6 @@ layout: default
 
 ### Contents
 
-### White Papers
+### Research
 
 ### Company
