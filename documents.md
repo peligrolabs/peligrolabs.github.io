@@ -7,9 +7,9 @@ layout: default
 
 ## Contents
 
-### Research
+### [Research](./documents/research.html)
 
-### Designs
+### [Designs](./documents/designs.html)
 
 ### Company
 
