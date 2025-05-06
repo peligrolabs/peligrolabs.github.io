@@ -7,7 +7,7 @@ layout: default
 
 ## Contents
 
-### [Somatic Relationality and the Future of Human-AI Therapeutic Interaction](https://peligrolabs.github.io/human-machine-dyad-white-paper/)
+### [Somatic Relationality and the Future of Human-AI Therapeutic Interaction](https://peligrolabs.github.io/somatic-relationality-white-paper/)
 
 ---
 
