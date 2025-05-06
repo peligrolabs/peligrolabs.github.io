@@ -3,7 +3,7 @@ layout: default
 ---
 # Company
 <b>[Back to Documents](/documents.html)</b>
-***
+* * *
 
 ## Contents
 

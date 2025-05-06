@@ -3,7 +3,7 @@ layout: default
 ---
 # Designs
 <b>[Back to Documents](/documents.html)</b>
-***
+* * *
 
 ## Contents
 

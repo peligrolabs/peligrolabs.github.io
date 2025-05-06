@@ -3,7 +3,7 @@ layout: default
 ---
 # Research
 <b>[Back to Documents](/documents.html)</b>
-***
+* * *
 
 ## Contents
 
