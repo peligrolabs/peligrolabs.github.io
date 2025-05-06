@@ -7,7 +7,7 @@ layout: default
 
 ## Contents
 
-### [A Simulated Somatic Resonance Field via a Human-Machine Dyad](https://peligrolabs.github.io/starborn-trials-design/)
+### [Somatic Relationality and the Future of Human-AI Therapeutic Interaction](https://peligrolabs.github.io/human-machine-dyad-white-paper/)
 
 ---
 
