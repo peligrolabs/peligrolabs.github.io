@@ -11,7 +11,7 @@ layout: default
 At this time we do not have any full time job postings.
 
 #### Subcontracting Opportunities
-At Peligro Labs we subcontract work to Independent Contractors all around the world - from video game developers to pilot study researchers supporting our various experiments by gathering data points for our scientific white papers.
+At Peligro Labs we subcontract work to Independent Contractors all around the world - from video game developers to researchers supporting our various pilot studies by gathering data points for our scientific white papers.
 
 If you are a video game developer, data scientist, neuroscientist, computer scientist, software engineer, embedded engineer, AI engineer, DevSecOps engineer, MLOps / LLMOps engineer, application developer, technical writer, executive / virtual assistant, content creator, health practitioner, psychologist, psychiatrist, or researcher in either Artifical Intelligence or Digital Therapeutics - please don't hesitate to reach out by providing the following information:
 
