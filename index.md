@@ -7,11 +7,15 @@ layout: default
 
 ## About
 
-<i>A Mythic High Technology and Digital Therapeutics Research & Development Company</i>
+<i>A High Tech Mythic Video Game Studio and Deep Tech Digital Therapeutics Research & Development Lab</i>
 
 ## <i>Featured Research Paper</i>
 
 [Somatic Relationality and the Future of Human-AI Therapeutic Interaction](https://peligrolabs.github.io/somatic-relationality-white-paper/)
+
+## <i>Featured Game Design</i>
+
+[Starborn Trials Game Design Document](https://peligrolabs.github.io/starborn-trials-design/)
 
 ---
 
