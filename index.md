@@ -13,6 +13,8 @@ layout: default
 
 [Somatic Relationality and the Future of Human-AI Therapeutic Interaction](https://peligrolabs.github.io/somatic-relationality-white-paper/)
 
+[Subconscious Mythic Transformation: How Story Catalyzes Healing Beyond Archetypal Possession](https://peligrolabs.github.io/mythic-transformation-white-paper/)
+
 ## <i>Featured Game Design</i>
 
 [Starborn Trials Game Design Document](https://peligrolabs.github.io/starborn-trials-design/)
