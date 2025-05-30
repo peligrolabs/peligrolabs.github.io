@@ -5,11 +5,13 @@ layout: default
 <b>[Back to Products](/products.html)</b>
 * * *
 
-## About
+## <i>About</i>
 
 Rock Paper Showdown is an action puzzle game built for iOS and Android smart devices. The game is downloadable for free offering 28 missions and an "unlimited" survival mode. For $2.99 players can download all available missions which totals nearly 2000!
 
-## Screenshots
+The game will be released on the Apple App Store and Google Play Store soon!
+
+## <i>Screenshots</i>
 
 <p align="left">
     <img

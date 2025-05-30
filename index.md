@@ -5,7 +5,7 @@ layout: default
 <b>Home</b> | <b>[Blog](./blog.html)</b> | <b>[Products](./products.html)</b> | <b>[Documents](./documents.html)</b> | <b>[Career](./career.html)</b>
 * * *
 
-## About
+## <i>About</i>
 
 <i>A High Tech Mythic Video Game Studio and Deep Tech Digital Therapeutics Research & Development Lab</i>
 
