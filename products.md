@@ -7,7 +7,7 @@ layout: default
 
 ## Contents
 
-[Rock Paper Showdown](./products/rock-paper-showdown.html)</b>
+### [Rock Paper Showdown](./products/rock-paper-showdown.html)
 
 ---
 
