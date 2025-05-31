@@ -25,6 +25,16 @@ The game will be released on the Apple App Store and Google Play Store soon!
 
 <p align="left">
     <img
+        alt="RPS Mobile Gameplay"
+        src="/assets/products/rock-paper-showdown/mobile-gameplay.jpg"
+        width="300"
+    />
+</p>
+
+> Rock Paper Showdown title screen.
+
+<p align="left">
+    <img
         alt="RPS Mission Select Screen"
         src="/assets/products/rock-paper-showdown/mission-screen.png"
         width="200"
