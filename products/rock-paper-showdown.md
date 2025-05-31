@@ -31,7 +31,7 @@ The game will be released on the Apple App Store and Google Play Store soon!
     />
 </p>
 
-> Rock Paper Showdown title screen.
+> Rock Paper Showdown mobile gameplay.
 
 <p align="left">
     <img
